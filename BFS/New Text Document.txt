@@ -1,7 +1,0 @@
-Bfs Array..
-connected or not connected
-number of connected component
-from vertex x reachable or not
-graph conatin cycle or not
-shortest path
-bipartite graph
